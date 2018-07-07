@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMathConsoleApp", "CSharpMathConsoleApp\CSharpMathConsoleApp.csproj", "{CCDD2805-728B-45D2-91E0-B13E047D2D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDD2805-728B-45D2-91E0-B13E047D2D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDD2805-728B-45D2-91E0-B13E047D2D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDD2805-728B-45D2-91E0-B13E047D2D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDD2805-728B-45D2-91E0-B13E047D2D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0AE658-C837-4903-8139-FF3B4B23A8C0}
+	EndGlobalSection
+EndGlobal
